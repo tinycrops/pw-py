@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+requests
+streamlit-js-eval
+python-multipart
+google-generativeai

@@ -1,0 +1,9 @@
+pynput
+ffmpeg-python
+PySide6
+mss
+opencv-python
+google-genai
+python-dotenv
+prisma
+asyncpg 
