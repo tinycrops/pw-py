@@ -3,6 +3,7 @@ add a .env with a GEMINI_API_KEY to root dir
 
 
 ```
+#from root dir
 pip install -r requirements.txt && python -m agentic_nexus.agent_orchestrator
 ```
 
