@@ -3,13 +3,7 @@ import json
 from google import genai
 from google.genai import types
 
-DEFAULT_PROMPT = """# DEFAULT_PROMPT: Video Analysis Prompt
-
-**Prompt Location:** [video-watcher/server/video-processor.mjs](//starter-applets/video-watcher/server/video-processor.mjs#L13)
-
----
-
-```
+DEFAULT_PROMPT = """
 Analyze this video recording and provide a detailed description of:
 1. The content visible on the screen
 2. Any actions or activities being performed
@@ -25,7 +19,6 @@ Structure your response as a JSON object with the following fields:
   "transcript": [{"time_stamp": "HH:MM:SS", "text": "Transcription of spoken content"}],
   "tags": ["tag1", "tag2"]
 }
-```
 """
 
 PROCESSED_VIDEOS_FILE = "processed_videos.txt"

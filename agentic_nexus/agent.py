@@ -51,11 +51,10 @@ class VideoAgent:
         # Get memory context to personalize the prompt
         memory_context = self.memory_manager.get_memory_context()
         
-        base_prompt = """You are a helpful AI assistant that helps the user by analyzing their recorded videos.
+        base_prompt = """
 You have access to information about videos the user has recorded.
 Use the getVideoInfo function to retrieve information about specific videos.
 If no specific video is requested, use the listAvailableVideos function to see what's available.
-Your goal is to help the user understand their recorded content and provide useful summaries and insights.
 Be proactive in providing information from the latest video.
 Keep your responses concise and focused on the video content.
 
