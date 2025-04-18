@@ -1,0 +1,871 @@
+[
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:02:09",
+    "summary": "The video features a man with a beard laying on a couch in front of a wall decorated with leafy lights. He is talking about recording something, and is also reading a message about letting an agent initiate by sending a message or pressing enter.",
+    "topics": [
+      "recording",
+      "agent initiation"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "recording",
+      "lights"
+    ],
+    "actions": "The man is lying on a couch, touching his hair, and talking.",
+    "screenContent": "The screen shows a man with long hair and a beard, lying on a gray couch. Behind him is a wall decorated with leafy lights. The lighting in the room is dim.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00",
+        "text": "So, we're recording a thing, but we don't know."
+      },
+      {
+        "time_stamp": "00:07",
+        "text": "Sorry, by sending a message or press enter to let the agent initiate."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:09:42",
+    "summary": "The video features a man with a beard sitting in a chair or couch, explaining the process of starting and stopping a recording using the F9 key. He mentions observing the AI's response after pressing a button to initiate the recording.",
+    "topics": [
+      "Video recording",
+      "AI response",
+      "Start/stop recording with F9 key"
+    ],
+    "tags": [
+      "beard",
+      "recording",
+      "AI",
+      "video"
+    ],
+    "actions": "The man is primarily speaking and occasionally touches his beard or moves his hand slightly. The main action is the discussion about recording and observing the AI response.",
+    "screenContent": "The screen displays a man with a long beard and hair, blue eyes, sitting in a chair or couch with a light-colored wall in the background. There is a decorative branch with small, leaf-like lights or buds visible in the upper part of the frame.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, what's up."
+      },
+      {
+        "time_stamp": "00:00:02",
+        "text": "Start, stop recording with F9."
+      },
+      {
+        "time_stamp": "00:00:06",
+        "text": "We just, we just press a button and we see what happens when the the AI response."
+      },
+      {
+        "time_stamp": "00:00:15",
+        "text": "So let's let's do it."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 06:34:21",
+    "summary": "The video features a man with a beard and long hair, lying on a couch, speaking about noisy data and hoping for things to improve.",
+    "topics": [
+      "noisy data",
+      "hopeful outlook"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "self-reflection"
+    ],
+    "actions": "The man adjusts his hair by putting his arms behind his head and pulling on it. He lies on a couch looking at the camera.",
+    "screenContent": "The screen shows a man with a beard and long hair wearing a white t-shirt. He is lying on a couch with a neutral background. He adjusts his hair and looks directly at the camera.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:01",
+        "text": "Okay, hopefully, this is not a permanent fuck up, and things will go well after this point."
+      },
+      {
+        "time_stamp": "00:16",
+        "text": "Because we've got a bunch of noisy data that just happened, and yeah, I don't know. I don't know what's going to happen now."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 06:10:49",
+    "summary": "The video features a man with a beard and long hair lying on a couch, discussing an excellent cartoon that he's been watching. He describes it as well-done, sad, and engaging, and mentions it tells a story about something that happened a long time ago. Throughout the video, the man interacts with his face and hands, and reflects on the rising sun outside his window.",
+    "topics": [
+      "Cartoons",
+      "Reflection",
+      "Sunrise"
+    ],
+    "tags": [
+      "Man",
+      "Couch",
+      "Beard",
+      "Cartoon",
+      "Sunrise",
+      "Reflection"
+    ],
+    "actions": "The man lies on a couch, touching his hair, putting his hands behind his head, and using his hands to express himself as he speaks. He rubs his face and contemplates, looking around the room, and also brings his hands together in front of him.",
+    "screenContent": "The screen displays a close-up of a man lying on a couch. He has a full beard and long, dark hair. He is wearing a white t-shirt. In the background, part of the couch is visible, as well as a wall with a decorative branch-like item. As the video progresses, the lighting changes slightly, highlighting the man's facial expressions and gestures. The rising sun is casting a glow through the window.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00",
+        "text": "So, we're going to just talk about this uh, excellent cartoon that um, that I'm watching. It's pretty cool because it's just well done and it's sad and engaging. They're telling a story about something that happened a long time ago, I think. And uh I'm just sitting here at 6:00 in the morning and I'm looking through the tiny space between the window and the window shade at the rising sun. The sky is lighting up orange and purple and blue and yellow and red."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:16:06",
+    "summary": "The video features a man with a beard lying down, looking at the camera, and talking about how the assistant is searching for a recorded video as he presses the button rather than waiting for the video to stop recording. He mentions that he is finding out what is happening and that he will record a video and see what pops up on the screen. He adjusts his position, rests his chin on his hand, and puts his hands behind his head at times.",
+    "topics": [
+      "video recording",
+      "assistant searching",
+      "updating state"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "video recording",
+      "talking"
+    ],
+    "actions": "The man is lying down, moving his hands around his head and face, resting his chin on his hand, and talking to the camera.",
+    "screenContent": "A close-up view of a man with a beard lying down and looking at the camera. Behind him is a wall with a decorative branch with metallic leaves. The lighting shifts throughout the video.  The color balance shifts throughout the video.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, what's up?"
+      },
+      {
+        "time_stamp": "00:00:04",
+        "text": "So, part of the problem here is that it looks like the assistant is searching"
+      },
+      {
+        "time_stamp": "00:00:14",
+        "text": "for a recorded video as I press the button, rather than waiting for the video to stop recording before it updates its state."
+      },
+      {
+        "time_stamp": "00:01:32",
+        "text": "All right, we're finding out, we're finding out what's happening here."
+      },
+      {
+        "time_stamp": "00:01:36",
+        "text": "We're going to record a video and then we're going to see what pops up on the screen in 321."
+      },
+      {
+        "time_stamp": "00:01:45",
+        "text": "Oh boy."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 04:05:25",
+    "summary": "The video shows a man with a beard and long hair, wearing a white t-shirt, lying down. He is speaking directly to the camera.",
+    "topics": [],
+    "tags": [
+      "man",
+      "beard",
+      "long hair",
+      "t-shirt",
+      "speaking",
+      "indoor"
+    ],
+    "actions": "The man is speaking to the camera.",
+    "screenContent": "The screen shows a man with a beard and long hair, wearing a white t-shirt. He is lying down, possibly on a couch or bed, with a wall visible behind him. He seems to be looking directly at the camera.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, it's me again."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 04:25:10",
+    "summary": "The video features a man with a beard and long hair lying on a couch. He is speaking and touching his beard, appearing to be assessing or admiring it. He speaks about something working, and describing it as simple, profound, amazing and incredible.",
+    "topics": [
+      "Self-reflection",
+      "Admiration",
+      "Assessment",
+      "Personal thoughts"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "self-reflection",
+      "admiration",
+      "assessment"
+    ],
+    "actions": "The man is speaking to the camera, looking directly at it. He touches his beard and chin with his hand, possibly thinking or reflecting on something.",
+    "screenContent": "The screen displays a man with a full beard and long, wavy hair, wearing a white shirt. He is lying down on a couch with pillows visible behind him. In the background, there is a light beige wall and a decorative branch with small lights or ornaments on it.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, it works."
+      },
+      {
+        "time_stamp": "00:00:03",
+        "text": "Look at that."
+      },
+      {
+        "time_stamp": "00:00:05",
+        "text": "It's simple."
+      },
+      {
+        "time_stamp": "00:00:07",
+        "text": "Yet profound."
+      },
+      {
+        "time_stamp": "00:00:10",
+        "text": "Amazing. Incredible."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:02:09",
+    "summary": "The video features a man with a beard laying on a couch in front of a wall decorated with leafy lights. He is talking about recording something, and is also reading a message about letting an agent initiate by sending a message or pressing enter.",
+    "topics": [
+      "recording",
+      "agent initiation"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "recording",
+      "lights"
+    ],
+    "actions": "The man is lying on a couch, touching his hair, and talking.",
+    "screenContent": "The screen shows a man with long hair and a beard, lying on a gray couch. Behind him is a wall decorated with leafy lights. The lighting in the room is dim.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00",
+        "text": "So, we're recording a thing, but we don't know."
+      },
+      {
+        "time_stamp": "00:07",
+        "text": "Sorry, by sending a message or press enter to let the agent initiate."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:09:42",
+    "summary": "The video features a man with a beard sitting in a chair or couch, explaining the process of starting and stopping a recording using the F9 key. He mentions observing the AI's response after pressing a button to initiate the recording.",
+    "topics": [
+      "Video recording",
+      "AI response",
+      "Start/stop recording with F9 key"
+    ],
+    "tags": [
+      "beard",
+      "recording",
+      "AI",
+      "video"
+    ],
+    "actions": "The man is primarily speaking and occasionally touches his beard or moves his hand slightly. The main action is the discussion about recording and observing the AI response.",
+    "screenContent": "The screen displays a man with a long beard and hair, blue eyes, sitting in a chair or couch with a light-colored wall in the background. There is a decorative branch with small, leaf-like lights or buds visible in the upper part of the frame.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, what's up."
+      },
+      {
+        "time_stamp": "00:00:02",
+        "text": "Start, stop recording with F9."
+      },
+      {
+        "time_stamp": "00:00:06",
+        "text": "We just, we just press a button and we see what happens when the the AI response."
+      },
+      {
+        "time_stamp": "00:00:15",
+        "text": "So let's let's do it."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:16:06",
+    "summary": "The video features a man with a beard lying down, looking at the camera, and talking about how the assistant is searching for a recorded video as he presses the button rather than waiting for the video to stop recording. He mentions that he is finding out what is happening and that he will record a video and see what pops up on the screen. He adjusts his position, rests his chin on his hand, and puts his hands behind his head at times.",
+    "topics": [
+      "video recording",
+      "assistant searching",
+      "updating state"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "video recording",
+      "talking"
+    ],
+    "actions": "The man is lying down, moving his hands around his head and face, resting his chin on his hand, and talking to the camera.",
+    "screenContent": "A close-up view of a man with a beard lying down and looking at the camera. Behind him is a wall with a decorative branch with metallic leaves. The lighting shifts throughout the video.  The color balance shifts throughout the video.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, what's up?"
+      },
+      {
+        "time_stamp": "00:00:04",
+        "text": "So, part of the problem here is that it looks like the assistant is searching"
+      },
+      {
+        "time_stamp": "00:00:14",
+        "text": "for a recorded video as I press the button, rather than waiting for the video to stop recording before it updates its state."
+      },
+      {
+        "time_stamp": "00:01:32",
+        "text": "All right, we're finding out, we're finding out what's happening here."
+      },
+      {
+        "time_stamp": "00:01:36",
+        "text": "We're going to record a video and then we're going to see what pops up on the screen in 321."
+      },
+      {
+        "time_stamp": "00:01:45",
+        "text": "Oh boy."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:37:26",
+    "summary": "The video shows a man with a beard lying down and speaking to the camera. He rearranges his hair throughout the video.",
+    "topics": [],
+    "tags": [
+      "man",
+      "beard",
+      "lying down",
+      "talking"
+    ],
+    "actions": "The man is lying down, talking, and adjusting his hair with his hands.",
+    "screenContent": "The screen shows a man lying on a gray surface. He has a dark beard and hair and is wearing a white shirt. Behind him is a beige wall with a decorative branch.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey yo, what's up?"
+      },
+      {
+        "time_stamp": "00:00:04",
+        "text": "It's your boy dog."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:52:18",
+    "summary": "The video features a man with a beard and long hair wearing a white shirt. He appears to be resting or sitting comfortably. The video focuses primarily on his face as he speaks. The overall tone is relaxed and conversational.",
+    "topics": [
+      "Relaxation",
+      "Conversation",
+      "Reassurance"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "white shirt",
+      "relaxed",
+      "conversation"
+    ],
+    "actions": "The man is speaking and occasionally glancing around. There isn't a lot of movement, suggesting he's sitting or resting in a relaxed position.",
+    "screenContent": "The screen shows a close-up of a man's face with a full beard and long dark hair. He is wearing a white t-shirt. The background is a muted, slightly out-of-focus wall or surface.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Yeah, don't stress it, man. I mean, we're just we're just doing stuff together. One in the same."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:59:41",
+    "summary": "The video features a man with long hair and a beard wearing a white t-shirt, who is discussing the Japanese word 'hodes'. He reflects on learning Japanese and expresses a desire to create a working app that he can interact with.",
+    "topics": [
+      "Japanese language learning",
+      "App development",
+      "Artificial intelligence"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "Japanese",
+      "app",
+      "language learning"
+    ],
+    "actions": "The man is speaking to the camera. He pauses, rests his hand on his chin, and smiles occasionally.",
+    "screenContent": "The screen shows a close-up of a man's face. He has long, dark hair, a beard, and blue eyes. He is wearing a white t-shirt and appears to be sitting on a couch or chair in a dimly lit room.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hodes is a word that I have been learning in Japanese."
+      },
+      {
+        "time_stamp": "00:00:07",
+        "text": "So yeah, we're we're going to find out what that's like and I don't know. Maybe someday we'll have a working app that does stuff."
+      },
+      {
+        "time_stamp": "00:00:23",
+        "text": "I'll have a thing that I can talk to."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 06:10:49",
+    "summary": "The video features a man with a beard and long hair lying on a couch, discussing an excellent cartoon that he's been watching. He describes it as well-done, sad, and engaging, and mentions it tells a story about something that happened a long time ago. Throughout the video, the man interacts with his face and hands, and reflects on the rising sun outside his window.",
+    "topics": [
+      "Cartoons",
+      "Reflection",
+      "Sunrise"
+    ],
+    "tags": [
+      "Man",
+      "Couch",
+      "Beard",
+      "Cartoon",
+      "Sunrise",
+      "Reflection"
+    ],
+    "actions": "The man lies on a couch, touching his hair, putting his hands behind his head, and using his hands to express himself as he speaks. He rubs his face and contemplates, looking around the room, and also brings his hands together in front of him.",
+    "screenContent": "The screen displays a close-up of a man lying on a couch. He has a full beard and long, dark hair. He is wearing a white t-shirt. In the background, part of the couch is visible, as well as a wall with a decorative branch-like item. As the video progresses, the lighting changes slightly, highlighting the man's facial expressions and gestures. The rising sun is casting a glow through the window.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00",
+        "text": "So, we're going to just talk about this uh, excellent cartoon that um, that I'm watching. It's pretty cool because it's just well done and it's sad and engaging. They're telling a story about something that happened a long time ago, I think. And uh I'm just sitting here at 6:00 in the morning and I'm looking through the tiny space between the window and the window shade at the rising sun. The sky is lighting up orange and purple and blue and yellow and red."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 06:34:21",
+    "summary": "The video features a man with a beard and long hair, lying on a couch, speaking about noisy data and hoping for things to improve.",
+    "topics": [
+      "noisy data",
+      "hopeful outlook"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "self-reflection"
+    ],
+    "actions": "The man adjusts his hair by putting his arms behind his head and pulling on it. He lies on a couch looking at the camera.",
+    "screenContent": "The screen shows a man with a beard and long hair wearing a white t-shirt. He is lying on a couch with a neutral background. He adjusts his hair and looks directly at the camera.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:01",
+        "text": "Okay, hopefully, this is not a permanent fuck up, and things will go well after this point."
+      },
+      {
+        "time_stamp": "00:16",
+        "text": "Because we've got a bunch of noisy data that just happened, and yeah, I don't know. I don't know what's going to happen now."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 04:05:25",
+    "summary": "The video shows a man with a beard and long hair, wearing a white t-shirt, lying down. He is speaking directly to the camera.",
+    "topics": [],
+    "tags": [
+      "man",
+      "beard",
+      "long hair",
+      "t-shirt",
+      "speaking",
+      "indoor"
+    ],
+    "actions": "The man is speaking to the camera.",
+    "screenContent": "The screen shows a man with a beard and long hair, wearing a white t-shirt. He is lying down, possibly on a couch or bed, with a wall visible behind him. He seems to be looking directly at the camera.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, it's me again."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 04:25:10",
+    "summary": "The video features a man with a beard and long hair lying on a couch. He is speaking and touching his beard, appearing to be assessing or admiring it. He speaks about something working, and describing it as simple, profound, amazing and incredible.",
+    "topics": [
+      "Self-reflection",
+      "Admiration",
+      "Assessment",
+      "Personal thoughts"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "self-reflection",
+      "admiration",
+      "assessment"
+    ],
+    "actions": "The man is speaking to the camera, looking directly at it. He touches his beard and chin with his hand, possibly thinking or reflecting on something.",
+    "screenContent": "The screen displays a man with a full beard and long, wavy hair, wearing a white shirt. He is lying down on a couch with pillows visible behind him. In the background, there is a light beige wall and a decorative branch with small lights or ornaments on it.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, it works."
+      },
+      {
+        "time_stamp": "00:00:03",
+        "text": "Look at that."
+      },
+      {
+        "time_stamp": "00:00:05",
+        "text": "It's simple."
+      },
+      {
+        "time_stamp": "00:00:07",
+        "text": "Yet profound."
+      },
+      {
+        "time_stamp": "00:00:10",
+        "text": "Amazing. Incredible."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:02:09",
+    "summary": "The video features a man with a beard laying on a couch in front of a wall decorated with leafy lights. He is talking about recording something, and is also reading a message about letting an agent initiate by sending a message or pressing enter.",
+    "topics": [
+      "recording",
+      "agent initiation"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "recording",
+      "lights"
+    ],
+    "actions": "The man is lying on a couch, touching his hair, and talking.",
+    "screenContent": "The screen shows a man with long hair and a beard, lying on a gray couch. Behind him is a wall decorated with leafy lights. The lighting in the room is dim.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00",
+        "text": "So, we're recording a thing, but we don't know."
+      },
+      {
+        "time_stamp": "00:07",
+        "text": "Sorry, by sending a message or press enter to let the agent initiate."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:09:42",
+    "summary": "The video features a man with a beard sitting in a chair or couch, explaining the process of starting and stopping a recording using the F9 key. He mentions observing the AI's response after pressing a button to initiate the recording.",
+    "topics": [
+      "Video recording",
+      "AI response",
+      "Start/stop recording with F9 key"
+    ],
+    "tags": [
+      "beard",
+      "recording",
+      "AI",
+      "video"
+    ],
+    "actions": "The man is primarily speaking and occasionally touches his beard or moves his hand slightly. The main action is the discussion about recording and observing the AI response.",
+    "screenContent": "The screen displays a man with a long beard and hair, blue eyes, sitting in a chair or couch with a light-colored wall in the background. There is a decorative branch with small, leaf-like lights or buds visible in the upper part of the frame.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, what's up."
+      },
+      {
+        "time_stamp": "00:00:02",
+        "text": "Start, stop recording with F9."
+      },
+      {
+        "time_stamp": "00:00:06",
+        "text": "We just, we just press a button and we see what happens when the the AI response."
+      },
+      {
+        "time_stamp": "00:00:15",
+        "text": "So let's let's do it."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:16:06",
+    "summary": "The video features a man with a beard lying down, looking at the camera, and talking about how the assistant is searching for a recorded video as he presses the button rather than waiting for the video to stop recording. He mentions that he is finding out what is happening and that he will record a video and see what pops up on the screen. He adjusts his position, rests his chin on his hand, and puts his hands behind his head at times.",
+    "topics": [
+      "video recording",
+      "assistant searching",
+      "updating state"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "video recording",
+      "talking"
+    ],
+    "actions": "The man is lying down, moving his hands around his head and face, resting his chin on his hand, and talking to the camera.",
+    "screenContent": "A close-up view of a man with a beard lying down and looking at the camera. Behind him is a wall with a decorative branch with metallic leaves. The lighting shifts throughout the video.  The color balance shifts throughout the video.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey, what's up?"
+      },
+      {
+        "time_stamp": "00:00:04",
+        "text": "So, part of the problem here is that it looks like the assistant is searching"
+      },
+      {
+        "time_stamp": "00:00:14",
+        "text": "for a recorded video as I press the button, rather than waiting for the video to stop recording before it updates its state."
+      },
+      {
+        "time_stamp": "00:01:32",
+        "text": "All right, we're finding out, we're finding out what's happening here."
+      },
+      {
+        "time_stamp": "00:01:36",
+        "text": "We're going to record a video and then we're going to see what pops up on the screen in 321."
+      },
+      {
+        "time_stamp": "00:01:45",
+        "text": "Oh boy."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:37:26",
+    "summary": "The video shows a man with a beard lying down and speaking to the camera. He rearranges his hair throughout the video.",
+    "topics": [],
+    "tags": [
+      "man",
+      "beard",
+      "lying down",
+      "talking"
+    ],
+    "actions": "The man is lying down, talking, and adjusting his hair with his hands.",
+    "screenContent": "The screen shows a man lying on a gray surface. He has a dark beard and hair and is wearing a white shirt. Behind him is a beige wall with a decorative branch.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hey yo, what's up?"
+      },
+      {
+        "time_stamp": "00:00:04",
+        "text": "It's your boy dog."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:52:18",
+    "summary": "The video features a man with a beard and long hair wearing a white shirt. He appears to be resting or sitting comfortably. The video focuses primarily on his face as he speaks. The overall tone is relaxed and conversational.",
+    "topics": [
+      "Relaxation",
+      "Conversation",
+      "Reassurance"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "white shirt",
+      "relaxed",
+      "conversation"
+    ],
+    "actions": "The man is speaking and occasionally glancing around. There isn't a lot of movement, suggesting he's sitting or resting in a relaxed position.",
+    "screenContent": "The screen shows a close-up of a man's face with a full beard and long dark hair. He is wearing a white t-shirt. The background is a muted, slightly out-of-focus wall or surface.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Yeah, don't stress it, man. I mean, we're just we're just doing stuff together. One in the same."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 05:59:41",
+    "summary": "The video features a man with long hair and a beard wearing a white t-shirt, who is discussing the Japanese word 'hodes'. He reflects on learning Japanese and expresses a desire to create a working app that he can interact with.",
+    "topics": [
+      "Japanese language learning",
+      "App development",
+      "Artificial intelligence"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "Japanese",
+      "app",
+      "language learning"
+    ],
+    "actions": "The man is speaking to the camera. He pauses, rests his hand on his chin, and smiles occasionally.",
+    "screenContent": "The screen shows a close-up of a man's face. He has long, dark hair, a beard, and blue eyes. He is wearing a white t-shirt and appears to be sitting on a couch or chair in a dimly lit room.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Hodes is a word that I have been learning in Japanese."
+      },
+      {
+        "time_stamp": "00:00:07",
+        "text": "So yeah, we're we're going to find out what that's like and I don't know. Maybe someday we'll have a working app that does stuff."
+      },
+      {
+        "time_stamp": "00:00:23",
+        "text": "I'll have a thing that I can talk to."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 06:10:49",
+    "summary": "The video features a man with a beard and long hair lying on a couch, discussing an excellent cartoon that he's been watching. He describes it as well-done, sad, and engaging, and mentions it tells a story about something that happened a long time ago. Throughout the video, the man interacts with his face and hands, and reflects on the rising sun outside his window.",
+    "topics": [
+      "Cartoons",
+      "Reflection",
+      "Sunrise"
+    ],
+    "tags": [
+      "Man",
+      "Couch",
+      "Beard",
+      "Cartoon",
+      "Sunrise",
+      "Reflection"
+    ],
+    "actions": "The man lies on a couch, touching his hair, putting his hands behind his head, and using his hands to express himself as he speaks. He rubs his face and contemplates, looking around the room, and also brings his hands together in front of him.",
+    "screenContent": "The screen displays a close-up of a man lying on a couch. He has a full beard and long, dark hair. He is wearing a white t-shirt. In the background, part of the couch is visible, as well as a wall with a decorative branch-like item. As the video progresses, the lighting changes slightly, highlighting the man's facial expressions and gestures. The rising sun is casting a glow through the window.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00",
+        "text": "So, we're going to just talk about this uh, excellent cartoon that um, that I'm watching. It's pretty cool because it's just well done and it's sad and engaging. They're telling a story about something that happened a long time ago, I think. And uh I'm just sitting here at 6:00 in the morning and I'm looking through the tiny space between the window and the window shade at the rising sun. The sky is lighting up orange and purple and blue and yellow and red."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 06:34:21",
+    "summary": "The video features a man with a beard and long hair, lying on a couch, speaking about noisy data and hoping for things to improve.",
+    "topics": [
+      "noisy data",
+      "hopeful outlook"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "self-reflection"
+    ],
+    "actions": "The man adjusts his hair by putting his arms behind his head and pulling on it. He lies on a couch looking at the camera.",
+    "screenContent": "The screen shows a man with a beard and long hair wearing a white t-shirt. He is lying on a couch with a neutral background. He adjusts his hair and looks directly at the camera.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:01",
+        "text": "Okay, hopefully, this is not a permanent fuck up, and things will go well after this point."
+      },
+      {
+        "time_stamp": "00:16",
+        "text": "Because we've got a bunch of noisy data that just happened, and yeah, I don't know. I don't know what's going to happen now."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 06:51:51",
+    "summary": "The video features a man with long dark hair and a beard, wearing a white t-shirt, lying back on a couch. He appears to be contemplating something and discussing a repetitive issue he is experiencing.",
+    "topics": [
+      "Repetitive issue",
+      "Contemplation"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "contemplation",
+      "repetitive issue"
+    ],
+    "actions": "The man is lying back on a couch, resting his chin on his hand as he looks around and speaks. He is clearly thinking and talking about a problem.",
+    "screenContent": "The screen shows a close-up of a man with dark hair and a beard, wearing a white t-shirt. He is lying back on a couch with soft, gray cushions. The background wall is a muted beige color. The lighting is somewhat dim, accentuating the details of his face and beard.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:01",
+        "text": "So, I'm getting like a repetitive thing going on. I'm not sure what exactly it is, but um, I don't know."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 06:52:50",
+    "summary": "The video features a man with a beard lying down and speaking to the camera about recording another video to test whether video state is being persisted correctly.",
+    "topics": [
+      "Video Recording",
+      "State Persistence",
+      "Technical Testing"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "video recording",
+      "testing",
+      "persistence",
+      "technical"
+    ],
+    "actions": "The man moves his hands to his head and talks directly to the camera. His facial expressions change as he speaks.",
+    "screenContent": "The screen shows a man with long hair and a beard, wearing a white t-shirt and lying down against a neutral-colored cushion. The background is a blurred wall. The camera angle is from above, looking down at the man's face.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00",
+        "text": "okay, so now we have to see what happens when I record another video. I don't think that the video state is being persisted or or something isn't working exactly correctly."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 06:54:19",
+    "summary": "A man with a beard is lying on a couch and talking to the camera. He says that he is going to keep recording videos to see what happens. He also mentions that he is watching cartoons and that the sun is coming up.",
+    "topics": [
+      "Recording videos",
+      "Cartoons",
+      "Sunrise"
+    ],
+    "tags": [
+      "beard",
+      "couch",
+      "man",
+      "talking",
+      "cartoons",
+      "sunrise"
+    ],
+    "actions": "The man looks at the camera, touches his face, and talks. He seems to be relaxing on the couch.",
+    "screenContent": "The video shows a man with a beard and long hair lying on a couch. The background is a beige wall and part of the couch cushions. He is wearing a white t-shirt.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:01",
+        "text": "Alright, so I guess we cleared some stuff up."
+      },
+      {
+        "time_stamp": "00:07",
+        "text": "And now we're going to keep recording videos to see what happens."
+      },
+      {
+        "time_stamp": "00:15",
+        "text": "Um, I'm watching."
+      },
+      {
+        "time_stamp": "00:25",
+        "text": "Cartoons and the sun is coming up."
+      },
+      {
+        "time_stamp": "00:31",
+        "text": "So things are going great."
+      }
+    ]
+  }
+]

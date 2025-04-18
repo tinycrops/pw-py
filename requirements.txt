@@ -6,4 +6,6 @@ opencv-python
 google-genai
 python-dotenv
 prisma
-asyncpg 
+asyncpg
+Flask-Login
+Flask-CORS 

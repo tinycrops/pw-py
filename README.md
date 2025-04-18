@@ -1,86 +1,80 @@
-![Generated Image](./Generated%20Image%20April%2015%2C%202025%20-%205_38PM.jpeg)
+# Video Journal Assistant
 
-Look at this video for an explaination of the Short Term Memory, Long Term Memory Working Memory query feature https://x.com/tinycrops/status/1910105664589799515
-
-# Video Watcher - Gemini Dataset Builder
-
-This application watches a folder for new video recordings from OBS, sends them to Google's Gemini AI for analysis, and builds a dataset of AI-generated labels and descriptions.
+A personal video journal application that uses AI to analyze your recorded videos and maintain a conversation with you about their content. The application allows you to record videos from your webcam with a single keystroke (F9) and then automatically processes them to extract insights, summaries, and transcripts.
 
 ## Features
 
-- **Automatic Video Detection**: Monitors a specified folder for new video recordings
-- **AI Analysis**: Sends videos to Gemini for detailed analysis
-- **Dataset Building**: Creates a structured dataset of AI-generated labels
-- **Web Interface**: View and explore the generated dataset
+- Record videos from your webcam with a single keystroke (F9)
+- Automatic video processing with Google's Gemini API
+- Conversation with an AI assistant that maintains context about your videos
+- Simple, clean UI that displays video summaries and the assistant's responses
 
-## Prerequisites
+## Requirements
 
-1. Node.js 18.x or higher
-2. Google Gemini API key
-3. OBS Studio configured to save recordings to a specific folder
+- Python 3.9+
+- Node.js 16+ and npm
+- ffmpeg (for video recording)
+- A Gemini API key from Google AI Studio
 
 ## Setup
 
 1. Clone this repository
-2. Install dependencies:
    ```
+   git clone https://github.com/yourusername/video-journal-assistant.git
+   cd video-journal-assistant
+   ```
+
+2. Install Python dependencies
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Install frontend dependencies
+   ```
+   cd ui/frontend
    npm install
+   cd ../..
    ```
-3. Create a `.env` file in the project root with the following variables:
+
+4. Set up your Gemini API key
    ```
-   VITE_GEMINI_API_KEY=your_gemini_api_key_here
-   VIDEO_WATCH_FOLDER=Q:\\
-   VIDEO_DATASET_FOLDER=C:\\Users\\YourUsername\\video-dataset
+   export GEMINI_API_KEY="your_api_key_here"
    ```
-   Note: Update the paths to match your system configuration.
+
+5. Start the application
+   ```
+   ./start_app.sh
+   ```
 
 ## Usage
 
-1. Start the application:
-   ```
-   npm run dev
-   ```
+1. The application will open in your browser at http://localhost:5173
+2. Press F9 to start recording a video from your webcam
+3. Press F9 again to stop recording
+4. The AI will automatically process the video and show you a summary
+5. Continue recording videos, and the AI will maintain context between sessions
 
-2. The server will start watching the specified folder for new video recordings
+## Directory Structure
 
-3. Record a video in OBS and save it to the watched folder (Q:\ by default)
-
-4. The application will automatically detect the new video, send it to Gemini for analysis, and add it to the dataset
-
-5. Open your browser to http://localhost:8001 to view the web interface
+- `/agentic_nexus` - Core backend components (video recording, AI agent)
+- `/ui/backend` - Flask backend API
+- `/ui/frontend` - React frontend application
+- `/recordings` - Where your videos and their analyses are stored
 
 ## How It Works
 
-1. The application uses `chokidar` to watch the specified folder for new video files
-2. When a new video is detected, it is uploaded to Google's Gemini AI
-3. A structured prompt asks Gemini to analyze the video and provide detailed information
-4. The response is parsed and saved to the dataset folder as a JSON file
-5. The web interface displays all analyzed videos and their AI-generated metadata
+1. The video recorder captures both your webcam feed and screen when you press F9
+2. When you press F9 again, the recording stops and is saved to the `/recordings` directory
+3. The application automatically sends the video to the Gemini API for analysis
+4. The AI agent maintains a conversation state that tracks all of your videos
+5. The agent uses function calling to retrieve information about your videos as needed
 
-## Customization
+## Troubleshooting
 
-- To modify the prompt sent to Gemini, edit the `DEFAULT_PROMPT` in `server/video-processor.mjs`
-- To change the watched folder or dataset location, update the environment variables in `.env`
+- If the webcam doesn't work, make sure ffmpeg is installed and that your webcam is not being used by another application
+- If you get API errors, check that your Gemini API key is correctly set
+- Videos are stored in the `/recordings` directory. If you run out of disk space, you can delete older videos
 
-## Folder Structure
+## License
 
-- `/server`: Backend Node.js server code
-- `/src`: Frontend React application
-- `/server/video-processor.mjs`: Core module for video analysis with Gemini 
-
-## Agentic Nexus Module
-
-The `agentic_nexus` module provides agentic orchestration and Gemini-powered video analysis:
-- Watches the `recordings/` folder for new webcam and screen recordings.
-- Uses Gemini 2.0 Flash to analyze videos with a detailed prompt.
-- Saves analysis results as JSON alongside the recordings.
-
-### Usage
-
-1. Set your `GOOGLE_API_KEY` environment variable (for Gemini access).
-2. Run the orchestrator:
-   ```bash
-   python -m agentic_nexus.agent_orchestrator
-   ```
-
-The orchestrator will process new recordings automatically. 
+MIT 

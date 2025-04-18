@@ -1,0 +1,24 @@
+{
+    "summary": "The video features a man with a beard lying down and speaking to the camera about recording another video to test whether video state is being persisted correctly.",
+    "screenContent": "The screen shows a man with long hair and a beard, wearing a white t-shirt and lying down against a neutral-colored cushion. The background is a blurred wall. The camera angle is from above, looking down at the man's face.",
+    "actions": "The man moves his hands to his head and talks directly to the camera. His facial expressions change as he speaks.",
+    "topics": [
+        "Video Recording",
+        "State Persistence",
+        "Technical Testing"
+    ],
+    "transcript": [
+        {
+            "time_stamp": "00:00",
+            "text": "okay, so now we have to see what happens when I record another video. I don't think that the video state is being persisted or or something isn't working exactly correctly."
+        }
+    ],
+    "tags": [
+        "man",
+        "beard",
+        "video recording",
+        "testing",
+        "persistence",
+        "technical"
+    ]
+}

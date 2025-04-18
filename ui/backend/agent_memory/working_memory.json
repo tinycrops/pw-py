@@ -1,0 +1,216 @@
+{
+  "untested_hypotheses": [
+    {
+      "insight": "User is currently focused on Self-reflection",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair lying on a couch. He is speaking and touching his beard, appearing to be assessing or admiring it. He speaks about something working, and describing it as simple, profound, amazing and incredible.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Admiration",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair lying on a couch. He is speaking and touching his beard, appearing to be assessing or admiring it. He speaks about something working, and describing it as simple, profound, amazing and incredible.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Assessment",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair lying on a couch. He is speaking and touching his beard, appearing to be assessing or admiring it. He speaks about something working, and describing it as simple, profound, amazing and incredible.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Personal thoughts",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair lying on a couch. He is speaking and touching his beard, appearing to be assessing or admiring it. He speaks about something working, and describing it as simple, profound, amazing and incredible.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man is speaking to the camera, looking directly at it. He touches his beard and chin with his hand, possibly thinking or reflecting on something.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User workflow involves: The man is lying down, talking, and adjusting his hair with his hands.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User workflow involves: The man is speaking to the camera.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on Japanese language learning",
+      "evidence": "[Topic in recent video: The video features a man with long hair and a beard wearing a white t-shirt, who is discussing the Japanese word 'hodes'. He reflects on learning Japanese and expresses a desire to create a working app that he can interact with.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on App development",
+      "evidence": "[Topic in recent video: The video features a man with long hair and a beard wearing a white t-shirt, who is discussing the Japanese word 'hodes'. He reflects on learning Japanese and expresses a desire to create a working app that he can interact with.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Artificial intelligence",
+      "evidence": "[Topic in recent video: The video features a man with long hair and a beard wearing a white t-shirt, who is discussing the Japanese word 'hodes'. He reflects on learning Japanese and expresses a desire to create a working app that he can interact with.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man is speaking to the camera. He pauses, rests his hand on his chin, and smiles occasionally.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on Relaxation",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair wearing a white shirt. He appears to be resting or sitting comfortably. The video focuses primarily on his face as he speaks. The overall tone is relaxed and conversational.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Conversation",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair wearing a white shirt. He appears to be resting or sitting comfortably. The video focuses primarily on his face as he speaks. The overall tone is relaxed and conversational.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Reassurance",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair wearing a white shirt. He appears to be resting or sitting comfortably. The video focuses primarily on his face as he speaks. The overall tone is relaxed and conversational.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man is speaking and occasionally glancing around. There isn't a lot of movement, suggesting he's sitting or resting in a relaxed position.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on recording",
+      "evidence": "[Topic in recent video: The video features a man with a beard laying on a couch in front of a wall decorated with leafy lights. He is talking about recording something, and is also reading a message about letting an agent initiate by sending a message or pressing enter.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on agent initiation",
+      "evidence": "[Topic in recent video: The video features a man with a beard laying on a couch in front of a wall decorated with leafy lights. He is talking about recording something, and is also reading a message about letting an agent initiate by sending a message or pressing enter.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man is lying on a couch, touching his hair, and talking.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on Video recording",
+      "evidence": "[Topic in recent video: The video features a man with a beard sitting in a chair or couch, explaining the process of starting and stopping a recording using the F9 key. He mentions observing the AI's response after pressing a button to initiate the recording.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on AI response",
+      "evidence": "[Topic in recent video: The video features a man with a beard sitting in a chair or couch, explaining the process of starting and stopping a recording using the F9 key. He mentions observing the AI's response after pressing a button to initiate the recording.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Start/stop recording with F9 key",
+      "evidence": "[Topic in recent video: The video features a man with a beard sitting in a chair or couch, explaining the process of starting and stopping a recording using the F9 key. He mentions observing the AI's response after pressing a button to initiate the recording.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man is primarily speaking and occasionally touches his beard or moves his hand slightly. The main action is the discussion about recording and observing the AI response.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on noisy data",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair, lying on a couch, speaking about noisy data and hoping for things to improve.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on hopeful outlook",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair, lying on a couch, speaking about noisy data and hoping for things to improve.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man adjusts his hair by putting his arms behind his head and pulling on it. He lies on a couch looking at the camera.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on Cartoons",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair lying on a couch, discussing an excellent cartoon that he's been watching. He describes it as well-done, sad, and engaging, and mentions it tells a story about something that happened a long time ago. Throughout the video, the man interacts with his face and hands, and reflects on the rising sun outside his window.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Reflection",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair lying on a couch, discussing an excellent cartoon that he's been watching. He describes it as well-done, sad, and engaging, and mentions it tells a story about something that happened a long time ago. Throughout the video, the man interacts with his face and hands, and reflects on the rising sun outside his window.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Sunrise",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair lying on a couch, discussing an excellent cartoon that he's been watching. He describes it as well-done, sad, and engaging, and mentions it tells a story about something that happened a long time ago. Throughout the video, the man interacts with his face and hands, and reflects on the rising sun outside his window.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man lies on a couch, touching his hair, putting his hands behind his head, and using his hands to express himself as he speaks. He rubs his face and contemplates, looking around the room, and also brings his hands together in front of him.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on video recording",
+      "evidence": "[Topic in recent video: The video features a man with a beard lying down, looking at the camera, and talking about how the assistant is searching for a recorded video as he presses the button rather than waiting for the video to stop recording. He mentions that he is finding out what is happening and that he will record a video and see what pops up on the screen. He adjusts his position, rests his chin on his hand, and puts his hands behind his head at times.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on assistant searching",
+      "evidence": "[Topic in recent video: The video features a man with a beard lying down, looking at the camera, and talking about how the assistant is searching for a recorded video as he presses the button rather than waiting for the video to stop recording. He mentions that he is finding out what is happening and that he will record a video and see what pops up on the screen. He adjusts his position, rests his chin on his hand, and puts his hands behind his head at times.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on updating state",
+      "evidence": "[Topic in recent video: The video features a man with a beard lying down, looking at the camera, and talking about how the assistant is searching for a recorded video as he presses the button rather than waiting for the video to stop recording. He mentions that he is finding out what is happening and that he will record a video and see what pops up on the screen. He adjusts his position, rests his chin on his hand, and puts his hands behind his head at times.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man is lying down, moving his hands around his head and face, resting his chin on his hand, and talking to the camera.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on Repetitive issue",
+      "evidence": "[Topic in recent video: The video features a man with long dark hair and a beard, wearing a white t-shirt, lying back on a couch. He appears to be contemplating something and discussing a repetitive issue he is experiencing.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Contemplation",
+      "evidence": "[Topic in recent video: The video features a man with long dark hair and a beard, wearing a white t-shirt, lying back on a couch. He appears to be contemplating something and discussing a repetitive issue he is experiencing.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man is lying back on a couch, resting his chin on his hand as he looks around and speaks. He is clearly thinking and talking about a problem.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on Video Recording",
+      "evidence": "[Topic in recent video: The video features a man with a beard lying down and speaking to the camera about recording another video to test whether video state is being persisted correctly.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on State Persistence",
+      "evidence": "[Topic in recent video: The video features a man with a beard lying down and speaking to the camera about recording another video to test whether video state is being persisted correctly.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Technical Testing",
+      "evidence": "[Topic in recent video: The video features a man with a beard lying down and speaking to the camera about recording another video to test whether video state is being persisted correctly.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man moves his hands to his head and talks directly to the camera. His facial expressions change as he speaks.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on Recording videos",
+      "evidence": "[Topic in recent video: A man with a beard is lying on a couch and talking to the camera. He says that he is going to keep recording videos to see what happens. He also mentions that he is watching cartoons and that the sun is coming up.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man looks at the camera, touches his face, and talks. He seems to be relaxing on the couch.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    }
+  ],
+  "corroborated_hypotheses": [],
+  "established_facts": []
+}

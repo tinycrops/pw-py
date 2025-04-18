@@ -1,0 +1,40 @@
+{
+    "summary": "A man with a beard is lying on a couch and talking to the camera. He says that he is going to keep recording videos to see what happens. He also mentions that he is watching cartoons and that the sun is coming up.",
+    "screenContent": "The video shows a man with a beard and long hair lying on a couch. The background is a beige wall and part of the couch cushions. He is wearing a white t-shirt.",
+    "actions": "The man looks at the camera, touches his face, and talks. He seems to be relaxing on the couch.",
+    "topics": [
+        "Recording videos",
+        "Cartoons",
+        "Sunrise"
+    ],
+    "transcript": [
+        {
+            "time_stamp": "00:01",
+            "text": "Alright, so I guess we cleared some stuff up."
+        },
+        {
+            "time_stamp": "00:07",
+            "text": "And now we're going to keep recording videos to see what happens."
+        },
+        {
+            "time_stamp": "00:15",
+            "text": "Um, I'm watching."
+        },
+        {
+            "time_stamp": "00:25",
+            "text": "Cartoons and the sun is coming up."
+        },
+        {
+            "time_stamp": "00:31",
+            "text": "So things are going great."
+        }
+    ],
+    "tags": [
+        "beard",
+        "couch",
+        "man",
+        "talking",
+        "cartoons",
+        "sunrise"
+    ]
+}
