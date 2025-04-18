@@ -1,0 +1,39 @@
+{
+    "summary": "The video features a man with a beard and long hair wearing a white t-shirt sitting on a couch. He appears to be recording a video log where he discusses a problem that has not been resolved, despite a previous recording attempt. The video is static and consists of the man talking to the camera. He shows signs of frustration and disappointment.",
+    "screenContent": "The screen displays a man with a long, dark beard and long, curly dark hair. He is wearing a plain white t-shirt and appears to be sitting on a couch, possibly in a home setting. The background is a blurry neutral tan color, presumably a wall or room. The camera angle is a close-up shot, focusing primarily on his face and upper torso.",
+    "actions": "The only action performed is the man speaking directly to the camera. There are minor facial expressions and slight head movements as he talks, indicating he is engaged in a conversation or monologue.",
+    "topics": [
+        "problem-solving",
+        "video log",
+        "technical issues",
+        "frustration"
+    ],
+    "transcript": [
+        {
+            "time_stamp": "00:00:00",
+            "text": "so we've got a recording and um it"
+        },
+        {
+            "time_stamp": "00:00:06",
+            "text": "didn't fix the problem. Didn't fix the problem that I wanted solved."
+        },
+        {
+            "time_stamp": "00:00:12",
+            "text": "Um so yeah what can you do?"
+        }
+    ],
+    "tags": [
+        "man",
+        "beard",
+        "couch",
+        "recording",
+        "vlog",
+        "unresolved issue",
+        "frustration",
+        "white t-shirt",
+        "indoors",
+        "talk",
+        "personal vlog",
+        "disappointment"
+    ]
+}

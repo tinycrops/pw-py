@@ -1,0 +1,33 @@
+{
+    "summary": "A man with a beard is recording a video discussing an app and the user experience he hopes to achieve. He wants the list of related videos to be removed from the right side of the app's window to help focus attention.",
+    "screenContent": "The screen displays a man with a full brown beard, blue eyes, and dark hair wearing a white t-shirt. He is sitting on a gray, textured couch or cushioned surface. The background is a blurry, light-brown wall.",
+    "actions": "The man speaks directly to the camera, uses hand gestures, and eventually lies back, placing his arms behind his head.",
+    "topics": [
+        "app design",
+        "user experience",
+        "video recording",
+        "focal point",
+        "remove features"
+    ],
+    "transcript": [
+        {
+            "time_stamp": "00:00:00",
+            "text": "Okay, we made a thing. It's working. I just recently said that I wanted the assistant window to stay static while I'm recording a video. So that is what happened. And now I want to move on to uh the list of videos on the right."
+        },
+        {
+            "time_stamp": "00:00:28",
+            "text": "It is not seems not necessary to have something like that where I'm getting a list of videos. The whole point of this app is to just pay attention to like one focal point. And so having all the information about all the videos that I just recorded is not um helpful necessarily. Uh so I guess"
+        },
+        {
+            "time_stamp": "00:01:04",
+            "text": "I would like it removed because it doesn't serve a purpose."
+        }
+    ],
+    "tags": [
+        "bearded man",
+        "talking head",
+        "app",
+        "user interface",
+        "video"
+    ]
+}

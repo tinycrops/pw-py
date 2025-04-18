@@ -18,6 +18,7 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [isProcessingF9, setIsProcessingF9] = useState(false);
   const [initialized, setInitialized] = useState(false);
+  const [isProcessingVideo, setIsProcessingVideo] = useState(false);  // New state to track video processing
 
   // Query agent on startup to initiate conversation with latest video data
   useEffect(() => {
@@ -74,20 +75,63 @@ function App() {
         // Fetch status
         const statusResponse = await fetch(`${API_BASE_URL}/api/status`);
         const statusData = await statusResponse.json();
-        setStatus(statusData);
+        
+        // Only update recording status, don't update UI elements while recording or processing
+        if (!status.is_recording && !isProcessingVideo) {
+          setStatus(statusData);
+        } else {
+          // Only update the recording status flag, but keep the video count the same
+          // This prevents triggering the "processed_video_count changed" logic during recording
+          setStatus(prevStatus => ({
+            ...prevStatus,
+            is_recording: statusData.is_recording
+          }));
+        }
 
-        // Fetch conversation
-        const conversationResponse = await fetch(`${API_BASE_URL}/api/conversation`);
-        const conversationData = await conversationResponse.json();
-        setConversationState(conversationData);
+        // Only fetch conversation state if not recording or processing
+        if (!status.is_recording && !isProcessingVideo) {
+          // Fetch conversation
+          const conversationResponse = await fetch(`${API_BASE_URL}/api/conversation`);
+          const conversationData = await conversationResponse.json();
+          setConversationState(conversationData);
 
-        // Set the last agent response for display
-        if (conversationData.history && conversationData.history.length > 0) {
-          const lastMessage = conversationData.history
-            .filter(msg => msg.role === 'assistant')
-            .pop();
-          if (lastMessage) {
-            setLastAgentResponse(lastMessage.content);
+          // Update the last agent response only if we're not recording or processing
+          if (conversationData.history && conversationData.history.length > 0) {
+            const lastMessage = conversationData.history
+              .filter(msg => msg.role === 'assistant')
+              .pop();
+            if (lastMessage) {
+              setLastAgentResponse(lastMessage.content);
+            }
+          }
+        }
+        
+        // Check if recording has finished (only once, when status changes)
+        if (status.is_recording && !statusData.is_recording) {
+          // Recording just stopped, set processing state
+          setIsProcessingVideo(true);
+          setLastAgentResponse("Recording stopped. Processing your video, please wait...");
+        }
+        
+        // Only handle video count change when not actively recording
+        if (isProcessingVideo && !statusData.is_recording && statusData.processed_video_count > status.processed_video_count) {
+          // Processing is done, update video count and exit processing state
+          setStatus(statusData);
+          setIsProcessingVideo(false);
+          
+          // Explicitly fetch the latest conversation after processing is complete
+          const conversationResponse = await fetch(`${API_BASE_URL}/api/conversation`);
+          const conversationData = await conversationResponse.json();
+          setConversationState(conversationData);
+          
+          // Get the newest assistant response
+          if (conversationData.history && conversationData.history.length > 0) {
+            const lastMessage = conversationData.history
+              .filter(msg => msg.role === 'assistant')
+              .pop();
+            if (lastMessage) {
+              setLastAgentResponse(lastMessage.content);
+            }
           }
         }
       } catch (error) {
@@ -101,22 +145,26 @@ function App() {
 
     // Cleanup on component unmount
     return () => clearInterval(interval);
-  }, []);
+  }, [status.is_recording, status.processed_video_count, isProcessingVideo]);
 
   // Handle F9 keypress to toggle recording
   useEffect(() => {
     const handleKeyDown = async (event) => {
       if (event.key === 'F9') {
         // Prevent multiple handling of the same F9 press
-        if (isProcessingF9) {
+        if (isProcessingF9 || isProcessingVideo) {
           return;
         }
         
         event.preventDefault();
         setIsProcessingF9(true);
-        setLoading(true);
         
         try {
+          // If we're not recording, set message before API call
+          if (!status.is_recording) {
+            setLastAgentResponse("Recording started. Press F9 again when you're done to stop and analyze the recording.");
+          }
+          
           const response = await fetch(`${API_BASE_URL}/api/toggle_recording`, {
             method: 'POST',
             headers: {
@@ -126,20 +174,17 @@ function App() {
           const data = await response.json();
           console.log('Recording toggle response:', data);
           
-          // Show a friendly message about recording status
-          if (data.message) {
-            if (data.message.includes("Recording started")) {
-              setLastAgentResponse("Recording started. Press F9 again when you're done to stop and analyze the recording.");
-            } else if (data.message.includes("Recording stopped")) {
-              setLastAgentResponse("Recording stopped. Processing your video, please wait...");
-            }
-          }
+          // Update recording status flag directly
+          setStatus(prevStatus => ({
+            ...prevStatus,
+            is_recording: !prevStatus.is_recording
+          }));
           
+          // Don't change message here - let the status effect handle it
         } catch (error) {
           console.error('Error toggling recording:', error);
           setLastAgentResponse("Error toggling recording. Please try again.");
         } finally {
-          setLoading(false);
           // Add a small delay before allowing another F9 press
           setTimeout(() => {
             setIsProcessingF9(false);
@@ -150,7 +195,7 @@ function App() {
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [isProcessingF9]);
+  }, [isProcessingF9, isProcessingVideo, status.is_recording]);
 
   // Function to query the agent
   const queryAgent = async (query) => {
@@ -213,6 +258,8 @@ function App() {
           <div className="response-box">
             {loading ? (
               <p className="loading">Processing...</p>
+            ) : isProcessingVideo ? (
+              <p>Recording stopped. Processing your video, please wait...</p>
             ) : (
               <p>{lastAgentResponse || "No response yet. Record a video to start."}</p>
             )}

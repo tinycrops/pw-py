@@ -1,0 +1,30 @@
+{
+    "summary": "This video features a man with a beard lying down and talking to the camera. He discusses the state of an agent interface and his expectations for its development. He also talks about recording videos and having an assistant use cumulative memory information to inform his statements.",
+    "screenContent": "The screen displays a man with a full, dark beard and medium-length brown hair. He is wearing a white t-shirt and is lying down, presumably on a couch, given the presence of a gray-green cushion in the background. The background also shows a peach wall. The lighting is somewhat dim, casting shadows on his face. His eyes are visible as blue or gray. He makes occasional hand movements and maintains a direct gaze towards the camera. He looks relaxed.",
+    "actions": "The man is lying down. He initially touches his hair and then puts his arms behind his head. He speaks directly to the camera and makes occasional hand gestures.",
+    "topics": [
+        "Agent interface",
+        "Video recording",
+        "Memory information",
+        "Assistant usage"
+    ],
+    "transcript": [
+        {
+            "time_stamp": "00:00:00",
+            "text": "So the state of the agent interface is not becoming compelling over time like I hoped it would."
+        },
+        {
+            "time_stamp": "00:00:12",
+            "text": "I am reading what the assistant has to say after every time I record the video and it's just a simple observation about the video I recorded and what I want to have happen is for the assistant to use the cumulative effect of the memory information that we are recording to inform what it says to me."
+        }
+    ],
+    "tags": [
+        "Man",
+        "Beard",
+        "Couch",
+        "Interface",
+        "Recording",
+        "Memory",
+        "Assistant"
+    ]
+}

@@ -1,189 +1,6 @@
 [
   {
     "type": "video_analysis",
-    "timestamp": "2025-04-18 05:02:09",
-    "summary": "The video features a man with a beard laying on a couch in front of a wall decorated with leafy lights. He is talking about recording something, and is also reading a message about letting an agent initiate by sending a message or pressing enter.",
-    "topics": [
-      "recording",
-      "agent initiation"
-    ],
-    "tags": [
-      "man",
-      "beard",
-      "couch",
-      "recording",
-      "lights"
-    ],
-    "actions": "The man is lying on a couch, touching his hair, and talking.",
-    "screenContent": "The screen shows a man with long hair and a beard, lying on a gray couch. Behind him is a wall decorated with leafy lights. The lighting in the room is dim.",
-    "transcript_excerpt": [
-      {
-        "time_stamp": "00:00",
-        "text": "So, we're recording a thing, but we don't know."
-      },
-      {
-        "time_stamp": "00:07",
-        "text": "Sorry, by sending a message or press enter to let the agent initiate."
-      }
-    ]
-  },
-  {
-    "type": "video_analysis",
-    "timestamp": "2025-04-18 05:09:42",
-    "summary": "The video features a man with a beard sitting in a chair or couch, explaining the process of starting and stopping a recording using the F9 key. He mentions observing the AI's response after pressing a button to initiate the recording.",
-    "topics": [
-      "Video recording",
-      "AI response",
-      "Start/stop recording with F9 key"
-    ],
-    "tags": [
-      "beard",
-      "recording",
-      "AI",
-      "video"
-    ],
-    "actions": "The man is primarily speaking and occasionally touches his beard or moves his hand slightly. The main action is the discussion about recording and observing the AI response.",
-    "screenContent": "The screen displays a man with a long beard and hair, blue eyes, sitting in a chair or couch with a light-colored wall in the background. There is a decorative branch with small, leaf-like lights or buds visible in the upper part of the frame.",
-    "transcript_excerpt": [
-      {
-        "time_stamp": "00:00:00",
-        "text": "Hey, what's up."
-      },
-      {
-        "time_stamp": "00:00:02",
-        "text": "Start, stop recording with F9."
-      },
-      {
-        "time_stamp": "00:00:06",
-        "text": "We just, we just press a button and we see what happens when the the AI response."
-      },
-      {
-        "time_stamp": "00:00:15",
-        "text": "So let's let's do it."
-      }
-    ]
-  },
-  {
-    "type": "video_analysis",
-    "timestamp": "2025-04-18 06:34:21",
-    "summary": "The video features a man with a beard and long hair, lying on a couch, speaking about noisy data and hoping for things to improve.",
-    "topics": [
-      "noisy data",
-      "hopeful outlook"
-    ],
-    "tags": [
-      "man",
-      "beard",
-      "couch",
-      "self-reflection"
-    ],
-    "actions": "The man adjusts his hair by putting his arms behind his head and pulling on it. He lies on a couch looking at the camera.",
-    "screenContent": "The screen shows a man with a beard and long hair wearing a white t-shirt. He is lying on a couch with a neutral background. He adjusts his hair and looks directly at the camera.",
-    "transcript_excerpt": [
-      {
-        "time_stamp": "00:01",
-        "text": "Okay, hopefully, this is not a permanent fuck up, and things will go well after this point."
-      },
-      {
-        "time_stamp": "00:16",
-        "text": "Because we've got a bunch of noisy data that just happened, and yeah, I don't know. I don't know what's going to happen now."
-      }
-    ]
-  },
-  {
-    "type": "video_analysis",
-    "timestamp": "2025-04-18 06:10:49",
-    "summary": "The video features a man with a beard and long hair lying on a couch, discussing an excellent cartoon that he's been watching. He describes it as well-done, sad, and engaging, and mentions it tells a story about something that happened a long time ago. Throughout the video, the man interacts with his face and hands, and reflects on the rising sun outside his window.",
-    "topics": [
-      "Cartoons",
-      "Reflection",
-      "Sunrise"
-    ],
-    "tags": [
-      "Man",
-      "Couch",
-      "Beard",
-      "Cartoon",
-      "Sunrise",
-      "Reflection"
-    ],
-    "actions": "The man lies on a couch, touching his hair, putting his hands behind his head, and using his hands to express himself as he speaks. He rubs his face and contemplates, looking around the room, and also brings his hands together in front of him.",
-    "screenContent": "The screen displays a close-up of a man lying on a couch. He has a full beard and long, dark hair. He is wearing a white t-shirt. In the background, part of the couch is visible, as well as a wall with a decorative branch-like item. As the video progresses, the lighting changes slightly, highlighting the man's facial expressions and gestures. The rising sun is casting a glow through the window.",
-    "transcript_excerpt": [
-      {
-        "time_stamp": "00:00",
-        "text": "So, we're going to just talk about this uh, excellent cartoon that um, that I'm watching. It's pretty cool because it's just well done and it's sad and engaging. They're telling a story about something that happened a long time ago, I think. And uh I'm just sitting here at 6:00 in the morning and I'm looking through the tiny space between the window and the window shade at the rising sun. The sky is lighting up orange and purple and blue and yellow and red."
-      }
-    ]
-  },
-  {
-    "type": "video_analysis",
-    "timestamp": "2025-04-18 05:16:06",
-    "summary": "The video features a man with a beard lying down, looking at the camera, and talking about how the assistant is searching for a recorded video as he presses the button rather than waiting for the video to stop recording. He mentions that he is finding out what is happening and that he will record a video and see what pops up on the screen. He adjusts his position, rests his chin on his hand, and puts his hands behind his head at times.",
-    "topics": [
-      "video recording",
-      "assistant searching",
-      "updating state"
-    ],
-    "tags": [
-      "man",
-      "beard",
-      "video recording",
-      "talking"
-    ],
-    "actions": "The man is lying down, moving his hands around his head and face, resting his chin on his hand, and talking to the camera.",
-    "screenContent": "A close-up view of a man with a beard lying down and looking at the camera. Behind him is a wall with a decorative branch with metallic leaves. The lighting shifts throughout the video.  The color balance shifts throughout the video.",
-    "transcript_excerpt": [
-      {
-        "time_stamp": "00:00:00",
-        "text": "Hey, what's up?"
-      },
-      {
-        "time_stamp": "00:00:04",
-        "text": "So, part of the problem here is that it looks like the assistant is searching"
-      },
-      {
-        "time_stamp": "00:00:14",
-        "text": "for a recorded video as I press the button, rather than waiting for the video to stop recording before it updates its state."
-      },
-      {
-        "time_stamp": "00:01:32",
-        "text": "All right, we're finding out, we're finding out what's happening here."
-      },
-      {
-        "time_stamp": "00:01:36",
-        "text": "We're going to record a video and then we're going to see what pops up on the screen in 321."
-      },
-      {
-        "time_stamp": "00:01:45",
-        "text": "Oh boy."
-      }
-    ]
-  },
-  {
-    "type": "video_analysis",
-    "timestamp": "2025-04-18 04:05:25",
-    "summary": "The video shows a man with a beard and long hair, wearing a white t-shirt, lying down. He is speaking directly to the camera.",
-    "topics": [],
-    "tags": [
-      "man",
-      "beard",
-      "long hair",
-      "t-shirt",
-      "speaking",
-      "indoor"
-    ],
-    "actions": "The man is speaking to the camera.",
-    "screenContent": "The screen shows a man with a beard and long hair, wearing a white t-shirt. He is lying down, possibly on a couch or bed, with a wall visible behind him. He seems to be looking directly at the camera.",
-    "transcript_excerpt": [
-      {
-        "time_stamp": "00:00:00",
-        "text": "Hey, it's me again."
-      }
-    ]
-  },
-  {
-    "type": "video_analysis",
     "timestamp": "2025-04-18 04:25:10",
     "summary": "The video features a man with a beard and long hair lying on a couch. He is speaking and touching his beard, appearing to be assessing or admiring it. He speaks about something working, and describing it as simple, profound, amazing and incredible.",
     "topics": [
@@ -865,6 +682,157 @@
       {
         "time_stamp": "00:31",
         "text": "So things are going great."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 07:14:43",
+    "summary": "A man with long brown hair and a beard is recording a video while reclining on a couch. He discusses a project and how he is going to update the processing logic, to prevent a message from the AI assistant from popping back up during the recording process, which he finds distracting.",
+    "topics": [
+      "Project Update",
+      "Processing Logic",
+      "AI Assistant",
+      "Video Recording"
+    ],
+    "tags": [
+      "couch",
+      "beard",
+      "long hair",
+      "project",
+      "ai assistant",
+      "video recording"
+    ],
+    "actions": "The man is speaking directly to the camera. He gestures occasionally with his hands, particularly his right hand. He shifts position slightly on the couch throughout the video.",
+    "screenContent": "The screen shows a man with long brown hair and a beard, wearing a white t-shirt, reclining on a light gray or beige couch. The background is a blurred, solid tan color. The lighting is somewhat dim, and the image is grainy.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "So I just uh sent some messages to some friends and now we can I sent some messages to some friends about this project."
+      },
+      {
+        "time_stamp": "00:00:17",
+        "text": "And the next thing that I'm going to do is update the processing logic so that the message it stays up the whole time while I'm recording a video."
+      },
+      {
+        "time_stamp": "00:00:37",
+        "text": "Because right now what happens is um there's a message from the most recent response from the assistant."
+      },
+      {
+        "time_stamp": "00:00:50",
+        "text": "And when I press record, it goes away and says processing for a few seconds."
+      },
+      {
+        "time_stamp": "00:00:56",
+        "text": "But then before I'm done recording, the message pops back up, and that's distracting because it seems like the assistant has responded to me, but really what happened is something else."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 07:33:41",
+    "summary": "The video features a man with a beard and long hair wearing a white t-shirt sitting on a couch. He appears to be recording a video log where he discusses a problem that has not been resolved, despite a previous recording attempt. The video is static and consists of the man talking to the camera. He shows signs of frustration and disappointment.",
+    "topics": [
+      "problem-solving",
+      "video log",
+      "technical issues",
+      "frustration"
+    ],
+    "tags": [
+      "man",
+      "beard",
+      "couch",
+      "recording",
+      "vlog",
+      "unresolved issue",
+      "frustration",
+      "white t-shirt",
+      "indoors",
+      "talk",
+      "personal vlog",
+      "disappointment"
+    ],
+    "actions": "The only action performed is the man speaking directly to the camera. There are minor facial expressions and slight head movements as he talks, indicating he is engaged in a conversation or monologue.",
+    "screenContent": "The screen displays a man with a long, dark beard and long, curly dark hair. He is wearing a plain white t-shirt and appears to be sitting on a couch, possibly in a home setting. The background is a blurry neutral tan color, presumably a wall or room. The camera angle is a close-up shot, focusing primarily on his face and upper torso.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "so we've got a recording and um it"
+      },
+      {
+        "time_stamp": "00:00:06",
+        "text": "didn't fix the problem. Didn't fix the problem that I wanted solved."
+      },
+      {
+        "time_stamp": "00:00:12",
+        "text": "Um so yeah what can you do?"
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 07:38:07",
+    "summary": "A man with a beard is recording a video discussing an app and the user experience he hopes to achieve. He wants the list of related videos to be removed from the right side of the app's window to help focus attention.",
+    "topics": [
+      "app design",
+      "user experience",
+      "video recording",
+      "focal point",
+      "remove features"
+    ],
+    "tags": [
+      "bearded man",
+      "talking head",
+      "app",
+      "user interface",
+      "video"
+    ],
+    "actions": "The man speaks directly to the camera, uses hand gestures, and eventually lies back, placing his arms behind his head.",
+    "screenContent": "The screen displays a man with a full brown beard, blue eyes, and dark hair wearing a white t-shirt. He is sitting on a gray, textured couch or cushioned surface. The background is a blurry, light-brown wall.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "Okay, we made a thing. It's working. I just recently said that I wanted the assistant window to stay static while I'm recording a video. So that is what happened. And now I want to move on to uh the list of videos on the right."
+      },
+      {
+        "time_stamp": "00:00:28",
+        "text": "It is not seems not necessary to have something like that where I'm getting a list of videos. The whole point of this app is to just pay attention to like one focal point. And so having all the information about all the videos that I just recorded is not um helpful necessarily. Uh so I guess"
+      },
+      {
+        "time_stamp": "00:01:04",
+        "text": "I would like it removed because it doesn't serve a purpose."
+      }
+    ]
+  },
+  {
+    "type": "video_analysis",
+    "timestamp": "2025-04-18 07:48:47",
+    "summary": "This video features a man with a beard lying down and talking to the camera. He discusses the state of an agent interface and his expectations for its development. He also talks about recording videos and having an assistant use cumulative memory information to inform his statements.",
+    "topics": [
+      "Agent interface",
+      "Video recording",
+      "Memory information",
+      "Assistant usage"
+    ],
+    "tags": [
+      "Man",
+      "Beard",
+      "Couch",
+      "Interface",
+      "Recording",
+      "Memory",
+      "Assistant"
+    ],
+    "actions": "The man is lying down. He initially touches his hair and then puts his arms behind his head. He speaks directly to the camera and makes occasional hand gestures.",
+    "screenContent": "The screen displays a man with a full, dark beard and medium-length brown hair. He is wearing a white t-shirt and is lying down, presumably on a couch, given the presence of a gray-green cushion in the background. The background also shows a peach wall. The lighting is somewhat dim, casting shadows on his face. His eyes are visible as blue or gray. He makes occasional hand movements and maintains a direct gaze towards the camera. He looks relaxed.",
+    "transcript_excerpt": [
+      {
+        "time_stamp": "00:00:00",
+        "text": "So the state of the agent interface is not becoming compelling over time like I hoped it would."
+      },
+      {
+        "time_stamp": "00:00:12",
+        "text": "I am reading what the assistant has to say after every time I record the video and it's just a simple observation about the video I recorded and what I want to have happen is for the assistant to use the cumulative effect of the memory information that we are recording to inform what it says to me."
       }
     ]
   }

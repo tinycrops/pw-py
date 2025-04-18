@@ -209,6 +209,96 @@
       "insight": "User workflow involves: The man looks at the camera, touches his face, and talks. He seems to be relaxing on the couch.",
       "evidence": "[Actions in recent video]",
       "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on Project Update",
+      "evidence": "[Topic in recent video: A man with long brown hair and a beard is recording a video while reclining on a couch. He discusses a project and how he is going to update the processing logic, to prevent a message from the AI assistant from popping back up during the recording process, which he finds distracting.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Processing Logic",
+      "evidence": "[Topic in recent video: A man with long brown hair and a beard is recording a video while reclining on a couch. He discusses a project and how he is going to update the processing logic, to prevent a message from the AI assistant from popping back up during the recording process, which he finds distracting.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on AI Assistant",
+      "evidence": "[Topic in recent video: A man with long brown hair and a beard is recording a video while reclining on a couch. He discusses a project and how he is going to update the processing logic, to prevent a message from the AI assistant from popping back up during the recording process, which he finds distracting.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man is speaking directly to the camera. He gestures occasionally with his hands, particularly his right hand. He shifts position slightly on the couch throughout the video.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on problem-solving",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair wearing a white t-shirt sitting on a couch. He appears to be recording a video log where he discusses a problem that has not been resolved, despite a previous recording attempt. The video is static and consists of the man talking to the camera. He shows signs of frustration and disappointment.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on video log",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair wearing a white t-shirt sitting on a couch. He appears to be recording a video log where he discusses a problem that has not been resolved, despite a previous recording attempt. The video is static and consists of the man talking to the camera. He shows signs of frustration and disappointment.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on technical issues",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair wearing a white t-shirt sitting on a couch. He appears to be recording a video log where he discusses a problem that has not been resolved, despite a previous recording attempt. The video is static and consists of the man talking to the camera. He shows signs of frustration and disappointment.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on frustration",
+      "evidence": "[Topic in recent video: The video features a man with a beard and long hair wearing a white t-shirt sitting on a couch. He appears to be recording a video log where he discusses a problem that has not been resolved, despite a previous recording attempt. The video is static and consists of the man talking to the camera. He shows signs of frustration and disappointment.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The only action performed is the man speaking directly to the camera. There are minor facial expressions and slight head movements as he talks, indicating he is engaged in a conversation or monologue.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on app design",
+      "evidence": "[Topic in recent video: A man with a beard is recording a video discussing an app and the user experience he hopes to achieve. He wants the list of related videos to be removed from the right side of the app's window to help focus attention.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on user experience",
+      "evidence": "[Topic in recent video: A man with a beard is recording a video discussing an app and the user experience he hopes to achieve. He wants the list of related videos to be removed from the right side of the app's window to help focus attention.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on focal point",
+      "evidence": "[Topic in recent video: A man with a beard is recording a video discussing an app and the user experience he hopes to achieve. He wants the list of related videos to be removed from the right side of the app's window to help focus attention.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on remove features",
+      "evidence": "[Topic in recent video: A man with a beard is recording a video discussing an app and the user experience he hopes to achieve. He wants the list of related videos to be removed from the right side of the app's window to help focus attention.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man speaks directly to the camera, uses hand gestures, and eventually lies back, placing his arms behind his head.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
+    },
+    {
+      "insight": "User is currently focused on Agent interface",
+      "evidence": "[Topic in recent video: This video features a man with a beard lying down and talking to the camera. He discusses the state of an agent interface and his expectations for its development. He also talks about recording videos and having an assistant use cumulative memory information to inform his statements.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Memory information",
+      "evidence": "[Topic in recent video: This video features a man with a beard lying down and talking to the camera. He discusses the state of an agent interface and his expectations for its development. He also talks about recording videos and having an assistant use cumulative memory information to inform his statements.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User is currently focused on Assistant usage",
+      "evidence": "[Topic in recent video: This video features a man with a beard lying down and talking to the camera. He discusses the state of an agent interface and his expectations for its development. He also talks about recording videos and having an assistant use cumulative memory information to inform his statements.]",
+      "relevance": "Current focus area"
+    },
+    {
+      "insight": "User workflow involves: The man is lying down. He initially touches his hair and then puts his arms behind his head. He speaks directly to the camera and makes occasional hand gestures.",
+      "evidence": "[Actions in recent video]",
+      "relevance": "Current workflow pattern"
     }
   ],
   "corroborated_hypotheses": [],

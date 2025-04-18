@@ -1,0 +1,41 @@
+{
+    "summary": "A man with long brown hair and a beard is recording a video while reclining on a couch. He discusses a project and how he is going to update the processing logic, to prevent a message from the AI assistant from popping back up during the recording process, which he finds distracting.",
+    "screenContent": "The screen shows a man with long brown hair and a beard, wearing a white t-shirt, reclining on a light gray or beige couch. The background is a blurred, solid tan color. The lighting is somewhat dim, and the image is grainy.",
+    "actions": "The man is speaking directly to the camera. He gestures occasionally with his hands, particularly his right hand. He shifts position slightly on the couch throughout the video.",
+    "topics": [
+        "Project Update",
+        "Processing Logic",
+        "AI Assistant",
+        "Video Recording"
+    ],
+    "transcript": [
+        {
+            "time_stamp": "00:00:00",
+            "text": "So I just uh sent some messages to some friends and now we can I sent some messages to some friends about this project."
+        },
+        {
+            "time_stamp": "00:00:17",
+            "text": "And the next thing that I'm going to do is update the processing logic so that the message it stays up the whole time while I'm recording a video."
+        },
+        {
+            "time_stamp": "00:00:37",
+            "text": "Because right now what happens is um there's a message from the most recent response from the assistant."
+        },
+        {
+            "time_stamp": "00:00:50",
+            "text": "And when I press record, it goes away and says processing for a few seconds."
+        },
+        {
+            "time_stamp": "00:00:56",
+            "text": "But then before I'm done recording, the message pops back up, and that's distracting because it seems like the assistant has responded to me, but really what happened is something else."
+        }
+    ],
+    "tags": [
+        "couch",
+        "beard",
+        "long hair",
+        "project",
+        "ai assistant",
+        "video recording"
+    ]
+}
